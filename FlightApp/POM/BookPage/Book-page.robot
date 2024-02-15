@@ -34,10 +34,15 @@ Set End Date
     ...                          locator=${Date2}    
     Click Element                locator=${SetDate2}
     Click Element                locator=${OK2}
-Click Option 
+Click Option Flight
     Wait Until Element Is Visible    
     ...                          locator=${Flight}
     Click Element                locator=${Flight}    
+Click Option FlightHotel and Day
+    Wait Until Element Is Visible    
+    ...                          locator=${FlightHotel}
+    Click Element                locator=${FlightHotel}
+    Click Element                locator=${Day}
 Click Book Button
     Click Element                locator=${BookBtn}
 Choose Price and confirm
