@@ -15,7 +15,7 @@ Booking One Way
     Choose Class
     Set Start Date
     Set End Date
-    Click Option 
+    Click Option Flight
     Click Book Button
     Choose Price and confirm
     Close Flight Application
@@ -30,7 +30,7 @@ Booking RoundTrip
     Choose Class
     Set Start Date
     Set End Date
-    Click Option 
+    Click Option FlightHotel and Day
     Click Book Button
     Choose Price and confirm
     Close Flight Application
