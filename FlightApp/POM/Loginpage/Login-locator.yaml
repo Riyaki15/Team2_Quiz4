@@ -1,0 +1,6 @@
+username: //android.widget.EditText[@resource-id="com.example.myapplication:id/username"]
+password: //android.widget.EditText[@resource-id="com.example.myapplication:id/password"]
+signin_btn: //android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]
+home_btn: //android.widget.Button[@resource-id="com.example.myapplication:id/book"]
+username_text: support@ngendigital.com
+password_text: abc123
